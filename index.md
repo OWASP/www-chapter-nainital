@@ -8,6 +8,9 @@ level: 0
 region: Middle East
 
 auto-migrated: 1
+meetup-group: OWASP-Nainital-Chapter
+country: India
+postal-code: 
 
 ---
 
